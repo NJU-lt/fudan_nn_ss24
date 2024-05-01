@@ -67,4 +67,3 @@ python test.py
 
 **最佳模型参数地址：**
 链接: https://pan.baidu.com/s/1BimrLrInVwItPKfT6DpEqw?pwd=dc2u 提取码: dc2u
-# fudan_nn_ss24
